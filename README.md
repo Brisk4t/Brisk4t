@@ -24,13 +24,18 @@ I code, I think and **occasionally** do both at the same time! Usually because I
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
 </div>
-
-
-
-
-![You know, I'm something of a scientist myself something is broken use your imagination](You know, I'm something of a scientist myself.png)
+<br/>
 
 As you can tell I'm something of a tinkerer myself, while I do enjoy the coding I also love building hardware projects and just tinkering in general. As I make more things I'll keep this updated.
+
+![You know, I'm something of a scientist myself something is broken use your imagination](yknow.png)
+</div>
+
+
+
+
+
+
 
 ## What I'm working on right now
 
