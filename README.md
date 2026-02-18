@@ -39,6 +39,7 @@ As you can tell I'm something of a tinkerer myself, while I do enjoy the coding 
 
 ## What I'm working on right now
 
-![toothpasteapp.com](Toothpaste.png)
+### [ToothPaste](https://github.com/Brisk4t/ToothPaste) - Type / Paste Keyboard Data, Mouse Controls and Nefarious Scripts securely over WEB-BLE.
 
-**What is this ?** You'll find out soon. (*threatening*)
+![https://github.com/Brisk4t/ToothPaste](ToothPasteCoverBlocks.png)
+
