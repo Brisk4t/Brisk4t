@@ -11,6 +11,8 @@
 
 I code, I think and **occasionally** do both at the same time! Usually because I got annoyed at something trivial. I've successfully convinced myself that I enjoy this process and have a healthy relationship with my computer.
 
+<img src="https://githubcard.com/Brisk4t.svg?d=0MQxWynT">
+
 ## If you piss me off I'll use these on you:
 <div style="text-align: left; margin-bottom: 10px">
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white&logoSize=auto" alt="Arduino"/>
