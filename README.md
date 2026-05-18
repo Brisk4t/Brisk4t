@@ -43,5 +43,5 @@ As you can tell I'm something of a tinkerer myself, while I do enjoy the coding 
 
 ### [ToothPaste](https://github.com/Brisk4t/ToothPaste) - Type / Paste Keyboard Data, Mouse Controls and Nefarious Scripts securely over WEB-BLE.
 
-![https://github.com/Brisk4t/ToothPaste](ToothPasteCoverBlocks.png)
+![https://github.com/Brisk4t/ToothPaste](ToothPaste_Cover_V2.png)
 
