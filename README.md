@@ -30,15 +30,6 @@ I code, I think and **occasionally** do both at the same time! Usually because I
 
 As you can tell I'm something of a tinkerer myself, while I do enjoy the coding I also love building hardware projects and just tinkering in general. As I make more things I'll keep this updated.
 
-![You know, I'm something of a scientist myself something is broken use your imagination](yknow.png)
-</div>
-
-
-
-
-
-
-
 ## What I'm working on right now
 
 ### [ToothPaste](https://github.com/Brisk4t/ToothPaste) - Type / Paste Keyboard Data, Mouse Controls and Nefarious Scripts securely over WEB-BLE.
