@@ -13,7 +13,7 @@ I code, I think and **occasionally** do both at the same time! Usually because I
 
 <img src="https://githubcard.com/Brisk4t.svg?d=0MQxWynT">
 
-## If you piss me off I'll use these on you:
+## My many adventures
 <div style="text-align: left; margin-bottom: 10px">
   <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
@@ -32,11 +32,13 @@ I code, I think and **occasionally** do both at the same time! Usually because I
 </div>
 <br/>
 
-As you can tell I'm something of a tinkerer myself, while I do enjoy the coding I also love building hardware projects and just tinkering in general. As I make more things I'll keep this updated.
-
-## What I'm working on right now
-
-### [ToothPaste](https://github.com/Brisk4t/ToothPaste) - Type / Paste Keyboard Data, Mouse Controls and Nefarious Scripts securely over WEB-BLE.
-
-![https://github.com/Brisk4t/ToothPaste](ToothPaste_Cover_V2.png)
-
+| | |
+|---|---|
+| [ToothPaste](https://github.com/Brisk4t/ToothPaste) | Hardware Encrypted BLE Keystroke Injection <img align="absmiddle" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&logoSize=auto" alt="C++"/> <img align="absmiddle" src="https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white&logoSize=auto" alt="Espressif"/> <img align="absmiddle" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&logoSize=auto" alt="JavaScript"/> <img align="absmiddle" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&logoSize=auto" alt="React"/> |
+| [FreeBSD I2S Raspberry Pi](https://reviews.freebsd.org/D57484) | I2S Driver for the BCM2835 / BCM2711 (Raspberry Pi 4 and prior) <img align="absmiddle" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/> <img align="absmiddle" src="https://img.shields.io/badge/-FreeBSD-%23870000?style=for-the-badge&logo=freebsd&logoColor=white" alt="FreeBSD"/> <img align="absmiddle" src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt="Raspberry Pi"/> |
+| [TossedTheTVKeptTheRemote - TTVKTR](https://github.com/Brisk4t/TossedTheTVKeptTheRemote) | VIA-like utility for configuring and repurposing IR remotes <img align="absmiddle" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&logoSize=auto" alt="C++"/> <img align="absmiddle" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&logoSize=auto" alt="JavaScript"/> <img align="absmiddle" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white&logoSize=auto" alt="Arduino"/> <img align="absmiddle" src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt="Raspberry Pi"/> |
+| [QGrip](https://github.com/ShriramRaghu-UofA/QGrip) | Bionic Arm for Researching Machine Learning Based Myoelectric Control <img align="absmiddle" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img align="absmiddle" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white&logoSize=auto" alt="Arduino"/> <img align="absmiddle" src="https://img.shields.io/badge/linux-%23323330.svg?style=for-the-badge&logo=linux&logoColor=%23FCC624&logoSize=auto" alt="Linux"/> |
+| [tailscale-rs-QNX](https://github.com/Brisk4t/tailscale-rs-qnx) | QNX 8.0 Port of [tailscale-rs](https://github.com/tailscale/tailscale-rs) <img align="absmiddle" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/> <img align="absmiddle" src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt="Raspberry Pi"/> |
+| [UNO Q USB](https://github.com/Brisk4t/Uno-Q-USB) | HID Device Mode for the Arduino UNO Q <img align="absmiddle" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/> <img align="absmiddle" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white&logoSize=auto" alt="Arduino"/> <img align="absmiddle" src="https://img.shields.io/badge/linux-%23323330.svg?style=for-the-badge&logo=linux&logoColor=%23FCC624&logoSize=auto" alt="Linux"/> |
+| [ProxStat](https://github.com/Brisk4t/ProxStat) | Color E-Ink Status Display for Proxmox Hosts <img align="absmiddle" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&logoSize=auto" alt="C++"/> <img align="absmiddle" src="https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white&logoSize=auto" alt="Espressif"/> |
+| [EcoBee Thermostat Reverse-Engineering](https://brisk4t.github.io/blog/ecobee/) | Root UART access to an EcoBee 3 Lite Smart Thermostat <img align="absmiddle" src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt="Raspberry Pi"/> <img align="absmiddle" src="https://img.shields.io/badge/linux-%23323330.svg?style=for-the-badge&logo=linux&logoColor=%23FCC624&logoSize=auto" alt="Linux"/> |
